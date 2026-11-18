@@ -49,6 +49,12 @@
       "file": "set8.json",
       "title": "发展对象理论考试模拟题8",
       "enabled": true
+    },
+    {
+      "id": "exam_26_autumn_all",
+      "file": "exam_26_autumn_all.json",
+      "title": "2026年秋发展对象题库（4份合并去重·精简易错辨析）",
+      "enabled": true
     }
   ]
 }
